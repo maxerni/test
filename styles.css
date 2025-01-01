@@ -90,3 +90,10 @@ nav {
     text-decoration: none;
     padding: 10px;
 } 
+
+.max {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 24px;
+    color: blue;
+}
